@@ -89,7 +89,7 @@ airbnb-nyc-prediction/
 
 ````
 #### Authors
-* Francisca Machado | [GitHub](https://github.com/a106863/)
+* Francisca Machado | [GitHub](https://github.com/francisca-sa/)
 *  Dean Kuijf
 *  Gabriela Durães
 
