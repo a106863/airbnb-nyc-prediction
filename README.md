@@ -15,7 +15,7 @@ The project tackles three main machine learning challenges:
 #### ⚙️ Data Pipeline & Feature Engineering
 Starting with raw data from the [New York City Airbnb Open Data on Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data), the pipeline included:
 * **Data Cleaning & Preparation:** Handling missing values, removing extreme outliers using statistical methods (Percentiles and Z-scores), and encoding categorical variables.
-* **Data Integration:** Enriched the dataset by integrating external geographical data, including crime rates (minor, moderate, serious) per neighborhood and proximity to tourist attractions (number of attractions within a 2km radius).
+* **Data Integration:** Enriched the dataset by integrating external geographical data, including [crime rates](https://data.cityofnewyork.us/Public-Safety/NYPD-Criminal-Court-Summons-Incident-Level-Data-Ye/mv4k-y93f/about_data) (minor, moderate, serious) per neighborhood and proximity to tourist attractions (number of attractions within a 2km radius).
 
 #### 🚀 Models & Results
 
